@@ -4,4 +4,4 @@ The project is based on [jupyter notebook](http://jupyter.org/) and use some lib
 
 Launch the project:
 
-<code>ridesafe-analytics $ jupyter notebook</code>
+<code>ridesafe-analytics$ jupyter notebook</code>
